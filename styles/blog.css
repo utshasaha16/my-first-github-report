@@ -1,4 +1,17 @@
-div{
-    background-color: brown;
-    padding: 20px;
+.dolor{
+    background-color: firebrick;
+    color: black;
+    font-style: italic;
+}
+
+.amet{
+    background-color: rgb(185, 77, 77);
+    color: rgba(15, 15, 17, 0.452);
+    font-size: larger;
+}
+
+.elit{
+background-color: rgb(63, 136, 136);
+font-size: medium;
+border: 3px solid;
 }
